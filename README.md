@@ -24,9 +24,10 @@ Welcome to my collection of Discord bots! Below, you'll find the bots I have dev
 > **Features:**
 > - Optimized for performance
 > - Enhanced user experience
+
 -# These 2 bots are no longer in production and it's forever offline.
 ---
-### 4. [CoolModerationBot](https://discord.com/oauth2/authorize?client_id=1421774478370934804&scope=applications.commands%20bot&permissions=8) 
+### 4. [CoolModerationBot](https://discord.com/oauth2/authorize?client_id=1421774478370934804&scope=applications.commands%20bot&permissions=8)(NEW) 
 > A new Discord bot with moderation features, better than [Updated BSoD Bot](https://discord.com/oauth2/authorize?client_id=1381420458469101611&scope=bot%20applications.commands&permissions=0). 
 > **Featured:**
 > - Working bot 24/7! 
