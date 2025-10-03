@@ -9,7 +9,6 @@ Welcome to my collection of Discord bots! Below, you'll find the bots I have dev
 > **Features:**
 > - Slash commands for easy use
 > - Lightweight and efficient
-
 ---
 
 ### 2. [BSoD Bot](https://discord.com/oauth2/authorize?client_id=1381401732814340176&scope=bot%20applications.commands&permissions=6)
@@ -25,9 +24,14 @@ Welcome to my collection of Discord bots! Below, you'll find the bots I have dev
 > **Features:**
 > - Optimized for performance
 > - Enhanced user experience
-
+-# These 2 bots are no longer in production and it's forever offline.
 ---
-
+### 4. [CoolModerationBot](https://discord.com/oauth2/authorize?client_id=1421774478370934804&scope=applications.commands%20bot&permissions=8) 
+> A new Discord bot with moderation features, better than [Updated BSoD Bot](https://discord.com/oauth2/authorize?client_id=1381420458469101611&scope=bot%20applications.commands&permissions=0). 
+> **Featured:**
+> - Working bot 24/7! 
+> - Moderation Features
+> - Improved Commands
 ## 🚧 Coming Soon
 Stay tuned for more innovative bots! Watch this space for updates. 👀
 
@@ -35,6 +39,5 @@ Stay tuned for more innovative bots! Watch this space for updates. 👀
 
 ### 📢 How to Contribute
 Feel free to contribute to this repository by suggesting features or reporting bugs. Let's make these bots even better together!
-### 📂 Copy of [MyDiscordBotsCollection.md](https://github.com/Amirhossein36-dot/SmirMikeMade564-Discord-Bots/tree/main) 
-This is a copy of a file.md file. The repository may change sometimes. 
----
+### 📂 Copy of old [MyDiscordBotsCollection.md](https://github.com/Amirhossein36-dot/SmirMikeMade564-Discord-Bots/tree/main) file. 
+___
