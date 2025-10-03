@@ -35,6 +35,7 @@ Welcome to my collection of Discord bots! Below, you'll find the bots I have dev
 > - Working bot 24/7! 
 > - Moderation Features
 > - Improved Commands
+> You can join his support server: https://discord.gg/wsRbsDyYwe
 ## 🚧 Coming Soon
 Stay tuned for more innovative bots! Watch this space for updates. 👀
 
