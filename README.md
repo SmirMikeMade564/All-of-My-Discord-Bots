@@ -25,7 +25,7 @@ Welcome to my collection of Discord bots! Below, you'll find the bots I have dev
 > - Optimized for performance
 > - Enhanced user experience
 
-> [!WARNING] : Before You Use These 3 Bots
+> [!WARNING: Before You Use These 3 Bots]
 > These 3 bots are no longer in production and it's forever offline.
 ---
 ### 4. [CoolModerationBot](https://discord.com/oauth2/authorize?client_id=1421774478370934804&scope=applications.commands%20bot&permissions=8)(NEW) 
